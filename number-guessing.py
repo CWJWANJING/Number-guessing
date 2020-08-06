@@ -75,6 +75,8 @@ if __name__ == "__main__":
                     chance += 1
                     continue
 
+
+
     # local network version
     # if int(pnum) == 2:
     #
